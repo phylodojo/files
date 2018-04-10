@@ -10,7 +10,7 @@
 
 
 date
-chmod -R a+rX,u+w /var/cache/app-info/xapian/default
+sudo chmod -R a+rX,u+w /var/cache/app-info/xapian/default
 sudo apt-get install -y software-properties-common
 sudo apt-add-repository universe
 sudo apt-get -y update
@@ -21,7 +21,7 @@ wget https://github.com/vinsondoyle/genbankProcessing/archive/master.zip
 unzip master.zip
 sudo cp genbankProcessing-master/*py /usr/local/bin
 pip install biopython
-sudo apt-get install -y ncbi-blast+
+#sudo apt-get install -y ncbi-blast+
 #Install efetch (ncbi tools) by pasting install.efetch.txt into terminal
 date
 
