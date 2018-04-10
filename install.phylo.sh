@@ -10,7 +10,9 @@
 
 
 date
+chmod -R a+rX,u+w /var/cache/app-info/xapian/default
 sudo apt-get install -y software-properties-common
+sudo apt-add-repository universe
 sudo apt-get -y update
 sudo apt-get -y install ncbi-blast+
 sudo apt-get -y install python-pip
