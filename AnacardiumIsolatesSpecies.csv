@@ -1,0 +1,281 @@
+Isolates,Species,Host,Organs of Plant,States,Code
+1,C. dianesei,A.occidentale,Leaf,Alagoas-AL,AL
+2,C. dianesei,A.occidentale,Leaf,Alagoas-AL,AL
+3,C. dianesei,A.occidentale,Leaf,Alagoas-AL,AL
+4,C. dianesei,A.occidentale,Leaf,Alagoas-AL,AL
+5,C. dianesei,A.occidentale,Stem,Alagoas-AL,AL
+6,C. dianesei,A.occidentale,Leaf,Alagoas-AL,AL
+9,C. dianesei,A.occidentale,Stem,Alagoas-AL,AL
+8,C.endomagifereae,A.occidentale,Stem,Alagoas-AL,AL
+7,Colletotrichum sp4,A.occidentale,Leaf,Alagoas-AL,AL
+12,C. dianesei,A.occidentale,Leaf,Ceará-CE,CE
+14,C. dianesei,A.occidentale,Leaf,Ceará-CE,CE
+15,C. dianesei,A.occidentale,Stem,Ceará-CE,CE
+13,C. chrisophilum,A.occidentale,Leaf,Ceará-CE,CE
+16,C. chrisophilum,A.occidentale,Stem,Ceará-CE,CE
+10,C. tropicale,A.occidentale,Leaf,Ceará-CE,CE
+11,C. tropicale,A.occidentale,Leaf,Ceará-CE,CE
+40,C.endomagifereae,A.othonianum,Leaf,Distrito Federal-DF,DF
+19,Colletotrichum sp1,A.humile,Leaf,Distrito Federal-DF,DF
+25,Colletotrichum sp1,A.humile,Leaf,Distrito Federal-DF,DF
+26,Colletotrichum sp1,A.occidentale,Fruit,Distrito Federal-DF,DF
+33,Colletotrichum sp1,A.othonianum,Leaf,Distrito Federal-DF,DF
+34,Colletotrichum sp1,A.othonianum,Leaf,Distrito Federal-DF,DF
+35,Colletotrichum sp1,A.othonianum,Leaf,Distrito Federal-DF,DF
+37,Colletotrichum sp1,A.othonianum,Leaf,Distrito Federal-DF,DF
+45,Colletotrichum sp1,A.othonianum,Leaf,Distrito Federal-DF,DF
+46,Colletotrichum sp1,A.othonianum,Leaf,Distrito Federal-DF,DF
+48,Colletotrichum sp1,A.othonianum,Leaf,Distrito Federal-DF,DF
+49,Colletotrichum sp1,A.othonianum,Leaf,Distrito Federal-DF,DF
+50,Colletotrichum sp1,A.othonianum,Leaf,Distrito Federal-DF,DF
+51,Colletotrichum sp1,A.othonianum,Leaf,Distrito Federal-DF,DF
+52,Colletotrichum sp1,A.othonianum,Leaf,Distrito Federal-DF,DF
+53,Colletotrichum sp1,A.othonianum,Leaf,Distrito Federal-DF,DF
+56,Colletotrichum sp1,A.othonianum,Leaf,Distrito Federal-DF,DF
+58,Colletotrichum sp1,A.othonianum,Leaf,Distrito Federal-DF,DF
+59,Colletotrichum sp1,A.othonianum,Leaf,Distrito Federal-DF,DF
+60,Colletotrichum sp1,A.othonianum,Leaf,Distrito Federal-DF,DF
+18,Colletotrichum sp5,A.occidentale,Leaf,Distrito Federal-DF,DF
+28,Colletotrichum sp5,A.occidentale,Leaf,Distrito Federal-DF,DF
+32,Colletotrichum sp5,A.othonianum,Leaf,Distrito Federal-DF,DF
+41,Colletotrichum sp5,A.othonianum,Leaf,Distrito Federal-DF,DF
+47,Colletotrichum sp5,A.othonianum,Leaf,Distrito Federal-DF,DF
+24,C. gloeosporioides ,A.humile,Leaf,Distrito Federal-DF,DF
+21,C. fructicola,A.humile,Leaf,Distrito Federal-DF,DF
+36,C. fructicola,A.othonianum,Leaf,Distrito Federal-DF,DF
+38,C. fructicola,A.othonianum,Leaf,Distrito Federal-DF,DF
+39,C. fructicola,A.othonianum,Leaf,Distrito Federal-DF,DF
+42,C. fructicola,A.othonianum,Leaf,Distrito Federal-DF,DF
+43,C. fructicola,A.othonianum,Leaf,Distrito Federal-DF,DF
+44,C. fructicola,A.othonianum,Leaf,Distrito Federal-DF,DF
+54,C. fructicola,A.othonianum,Leaf,Distrito Federal-DF,DF
+55,C. fructicola,A.othonianum,Leaf,Distrito Federal-DF,DF
+61,C. fructicola,A.othonianum,Leaf,Distrito Federal-DF,DF
+65,C. dianesei,A.occidentale,Leaf,MinA.Gerais-MG,MG
+75,C. dianesei,A.othonianum,Leaf,MinA.Gerais-MG,MG
+69,C. chrisophilum,A.humile,Leaf,MinA.Gerais-MG,MG
+77,C. fructicola,A.othonianum,Leaf,MinA.Gerais-MG,MG
+79,C. fructicola,A.othonianum,Stem,MinA.Gerais-MG,MG
+80,C. fructicola,A.othonianum,Leaf,MinA.Gerais-MG,MG
+81,C. fructicola,A.humile,Leaf,MinA.Gerais-MG,MG
+82,C. fructicola,A.humile,Leaf,MinA.Gerais-MG,MG
+83,C. fructicola,A.humile,Leaf,MinA.Gerais-MG,MG
+84,C. fructicola,A.humile,Leaf,MinA.Gerais-MG,MG
+85,C. fructicola,A.humile,Leaf,MinA.Gerais-MG,MG
+86,C. fructicola,A.humile,Leaf,MinA.Gerais-MG,MG
+87,C. fructicola,A.humile,Leaf,MinA.Gerais-MG,MG
+88,C. fructicola,A.humile,Leaf,MinA.Gerais-MG,MG
+89,C. fructicola,A.humile,Leaf,MinA.Gerais-MG,MG
+90,C. fructicola,A.humile,Leaf,MinA.Gerais-MG,MG
+91,C. fructicola,A.humile,Leaf,MinA.Gerais-MG,MG
+92,C. fructicola,A.humile,Leaf,MinA.Gerais-MG,MG
+93,C. fructicola,A.humile,Leaf,MinA.Gerais-MG,MG
+94,C. fructicola,A.humile,Leaf,MinA.Gerais-MG,MG
+95,C. fructicola,A.occidentale,Leaf,MinA.Gerais-MG,MG
+98,C. fructicola,A.humile,Leaf,MinA.Gerais-MG,MG
+99,C. fructicola,A.humile,Leaf,MinA.Gerais-MG,MG
+100,C. fructicola,A.humile,Leaf,MinA.Gerais-MG,MG
+101,C. fructicola,A.humile,Leaf,MinA.Gerais-MG,MG
+102,C. gloeosporioides ,A.humile,Leaf,MinA.Gerais-MG,MG
+71,Colletotrichum sp1,A.othonianum,Leaf,MinA.Gerais-MG,MG
+72,Colletotrichum sp1,A.othonianum,Leaf,MinA.Gerais-MG,MG
+73,Colletotrichum sp1,A.othonianum,Leaf,MinA.Gerais-MG,MG
+74,Colletotrichum sp1,A.othonianum,Leaf,MinA.Gerais-MG,MG
+76,Colletotrichum sp1,A.othonianum,Leaf,MinA.Gerais-MG,MG
+78,Colletotrichum sp1,A.othonianum,Leaf,MinA.Gerais-MG,MG
+96,Colletotrichum sp9,A.occidentale,Leaf,MinA.Gerais-MG,MG
+97,Colletotrichum sp10,A.occidentale,Leaf,MinA.Gerais-MG,MG
+103,Colletotrichum sp11,A.occidentale,Stem,MinA.Gerais-MG,MG
+116,C. chrisophilum,A.occidentale,Leaf,Paraíba-PB,PB
+122,C. chrisophilum,A.occidentale,Leaf,Paraíba-PB,PB
+111,C.communis,A.occidentale,Leaf,Paraíba-PB,PB
+113,C.communis,A.occidentale,Leaf,Paraíba-PB,PB
+118,C.communis,A.occidentale,Leaf,Paraíba-PB,PB
+121,C.communis,A.occidentale,Leaf,Paraíba-PB,PB
+124,C.communis,A.occidentale,Leaf,Paraíba-PB,PB
+129,C.communis,A.occidentale,Leaf,Paraíba-PB,PB
+106,C. fragareae,A.occidentale,Leaf,Paraíba-PB,PB
+107,C. fragareae,A.occidentale,Leaf,Paraíba-PB,PB
+108,C. fragareae,A.occidentale,Leaf,Paraíba-PB,PB
+110,C. fragareae,A.occidentale,Leaf,Paraíba-PB,PB
+112,C. fragareae,A.occidentale,Leaf,Paraíba-PB,PB
+119,C. fragareae,A.occidentale,Leaf,Paraíba-PB,PB
+131,C. fragareae,A.occidentale,Leaf,Paraíba-PB,PB
+109,C. tropicale,A.occidentale,Leaf,Paraíba-PB,PB
+126,C. tropicale,A.occidentale,Leaf,Paraíba-PB,PB
+104,C. dianesei,A.occidentale,Leaf,Paraíba-PB,PB
+105,C. dianesei,A.occidentale,Leaf,Paraíba-PB,PB
+114,C. dianesei,A.occidentale,Leaf,Paraíba-PB,PB
+115,C. dianesei,A.occidentale,Leaf,Paraíba-PB,PB
+123,C. dianesei,A.occidentale,Leaf,Paraíba-PB,PB
+125,C. dianesei,A.occidentale,Leaf,Paraíba-PB,PB
+127,C. dianesei,A.occidentale,Leaf,Paraíba-PB,PB
+128,C. dianesei,A.occidentale,Leaf,Paraíba-PB,PB
+130,C. dianesei,A.occidentale,Leaf,Paraíba-PB,PB
+132,C. dianesei,A.occidentale,Leaf,Paraíba-PB,PB
+134,C. dianesei,A.occidentale,Leaf,Paraíba-PB,PB
+333,Colletotrichum sp6,A.occidentale,Stem,Pará-PA,PA
+324,Colletotrichum sp6,A.occidentale,Leaf,Pará-PA,PA
+331,Colletotrichum sp7,A.occidentale,Inflorescence,Pará-PA,PA
+325,C.endomagifereae,A.occidentale,Leaf,Pará-PA,PA
+327,C. tropicale,A.occidentale,Leaf,Pará-PA,PA
+329,C. tropicale,A.occidentale,Leaf,Pará-PA,PA
+334,C.communis,A.occidentale,Stem,Pará-PA,PA
+328,C. dianesei,A.occidentale,Leaf,Pará-PA,PA
+330,C. dianesei,A.occidentale,Inflorescence,Pará-PA,PA
+326,Colletotrichum sp12,A.occidentale,Leaf,Pará-PA,PA
+137,C. dianesei,A.occidentale,Leaf,Pernambuco-PE,PE
+138,C. dianesei,A.occidentale,Leaf,Pernambuco-PE,PE
+139,C. dianesei,A.occidentale,Leaf,Pernambuco-PE,PE
+140,C. dianesei,A.occidentale,Leaf,Pernambuco-PE,PE
+142,C. dianesei,A.occidentale,Leaf,Pernambuco-PE,PE
+144,C. dianesei,A.occidentale,Leaf,Pernambuco-PE,PE
+171,C. dianesei,A.occidentale,Leaf,Pernambuco-PE,PE
+172,C. dianesei,A.occidentale,Leaf,Pernambuco-PE,PE
+178,C. dianesei,A.occidentale,Leaf,Pernambuco-PE,PE
+183,C. dianesei,A.occidentale,Leaf,Pernambuco-PE,PE
+184,C. dianesei,A.occidentale,Leaf,Pernambuco-PE,PE
+185,C. dianesei,A.occidentale,Leaf,Pernambuco-PE,PE
+187,C. dianesei,A.occidentale,Leaf,Pernambuco-PE,PE
+190,C. dianesei,A.occidentale,Leaf,Pernambuco-PE,PE
+195,C. dianesei,A.occidentale,Stem,Pernambuco-PE,PE
+198,C. dianesei,A.occidentale,Stem,Pernambuco-PE,PE
+199,C. dianesei,A.occidentale,Stem,Pernambuco-PE,PE
+201,C. dianesei,A.occidentale,Leaf,Pernambuco-PE,PE
+202,C. dianesei,A.occidentale,Leaf,Pernambuco-PE,PE
+203,C. dianesei,A.occidentale,Leaf,Pernambuco-PE,PE
+205,C. dianesei,A.occidentale,Leaf,Pernambuco-PE,PE
+213,C. dianesei,A.occidentale,Leaf,Pernambuco-PE,PE
+216,C. dianesei,A.occidentale,Leaf,Pernambuco-PE,PE
+218,C. dianesei,A.occidentale,Leaf,Pernambuco-PE,PE
+222,C. dianesei,A.occidentale,Leaf,Pernambuco-PE,PE
+227,C. dianesei,A.occidentale,Leaf,Pernambuco-PE,PE
+232,C. dianesei,A.occidentale,Leaf,Pernambuco-PE,PE
+233,C. dianesei,A.occidentale,Leaf,Pernambuco-PE,PE
+234,C. dianesei,A.occidentale,Leaf,Pernambuco-PE,PE
+173,C. dianesei,A.occidentale,Leaf,Pernambuco-PE,PE
+161,C. dianesei,A.occidentale,Leaf,Pernambuco-PE,PE
+273,C. dianesei,A.occidentale,Leaf,Pernambuco-PE,PE
+229,C. dianesei,A.occidentale,Leaf,Pernambuco-PE,PE
+207,C. dianesei,A.occidentale,Leaf,Pernambuco-PE,PE
+237,C. dianesei,A.occidentale,Leaf,Pernambuco-PE,PE
+245,C. dianesei,A.occidentale,Leaf,Pernambuco-PE,PE
+246,C. dianesei,A.occidentale,Inflorescence,Pernambuco-PE,PE
+247,C. dianesei,A.occidentale,Leaf,Pernambuco-PE,PE
+272,C. dianesei,A.occidentale,Leaf,Pernambuco-PE,PE
+275,C. dianesei,A.occidentale,Stem,Pernambuco-PE,PE
+276,C. dianesei,A.occidentale,Stem,Pernambuco-PE,PE
+277,C. dianesei,A.occidentale,Leaf,Pernambuco-PE,PE
+278,C. dianesei,A.occidentale,Leaf,Pernambuco-PE,PE
+279,C. dianesei,A.occidentale,Leaf,Pernambuco-PE,PE
+280,C. dianesei,A.occidentale,Stem,Pernambuco-PE,PE
+149,C.endomagifereae,A.occidentale,Stem,Pernambuco-PE,PE
+210,C.endomagifereae,A.occidentale,Leaf,Pernambuco-PE,PE
+215,C.endomagifereae,A.occidentale,Leaf,Pernambuco-PE,PE
+145,C. chrisophilum,A.occidentale,Leaf,Pernambuco-PE,PE
+150,C. chrisophilum,A.occidentale,Leaf,Pernambuco-PE,PE
+152,C. chrisophilum,A.occidentale,Stem,Pernambuco-PE,PE
+153,C. chrisophilum,A.occidentale,Inflorescence,Pernambuco-PE,PE
+154,C. chrisophilum,A.occidentale,Leaf,Pernambuco-PE,PE
+156,C. chrisophilum,A.occidentale,Leaf,Pernambuco-PE,PE
+157,C. chrisophilum,A.occidentale,Leaf,Pernambuco-PE,PE
+162,C. chrisophilum,A.occidentale,Leaf,Pernambuco-PE,PE
+163,C. chrisophilum,A.occidentale,Leaf,Pernambuco-PE,PE
+197,C. chrisophilum,A.occidentale,Stem,Pernambuco-PE,PE
+208,C. chrisophilum,A.occidentale,Leaf,Pernambuco-PE,PE
+217,C. chrisophilum,A.occidentale,Leaf,Pernambuco-PE,PE
+221,C. chrisophilum,A.occidentale,Leaf,Pernambuco-PE,PE
+239,C. chrisophilum,A.occidentale,Leaf,Pernambuco-PE,PE
+256,C. chrisophilum,A.occidentale,Leaf,Pernambuco-PE,PE
+258,C. chrisophilum,A.occidentale,Leaf,Pernambuco-PE,PE
+260,C. chrisophilum,A.occidentale,Leaf,Pernambuco-PE,PE
+262,C. chrisophilum,A.occidentale,Leaf,Pernambuco-PE,PE
+271,C. chrisophilum,A.occidentale,Stem,Pernambuco-PE,PE
+186,C.communis,A.occidentale,Leaf,Pernambuco-PE,PE
+170,C.communis,A.occidentale,Leaf,Pernambuco-PE,PE
+182,C.communis,A.occidentale,Leaf,Pernambuco-PE,PE
+200,C.communis,A.occidentale,Leaf,Pernambuco-PE,PE
+220,C.communis,A.occidentale,Leaf,Pernambuco-PE,PE
+228,C.communis,A.occidentale,Leaf,Pernambuco-PE,PE
+230,C.communis,A.occidentale,Leaf,Pernambuco-PE,PE
+231,C.communis,A.occidentale,Leaf,Pernambuco-PE,PE
+242,C.communis,A.occidentale,Leaf,Pernambuco-PE,PE
+244,C.communis,A.occidentale,Leaf,Pernambuco-PE,PE
+274,C.communis,A.occidentale,Leaf,Pernambuco-PE,PE
+254,C. fructicola,A.occidentale,Leaf,Pernambuco-PE,PE
+257,C. fructicola,A.occidentale,Leaf,Pernambuco-PE,PE
+259,C. fructicola,A.occidentale,Leaf,Pernambuco-PE,PE
+261,C. fructicola,A.occidentale,Leaf,Pernambuco-PE,PE
+263,C. fructicola,A.occidentale,Leaf,Pernambuco-PE,PE
+264,C. fructicola,A.occidentale,Leaf,Pernambuco-PE,PE
+196,C. fructicola,A.occidentale,Stem,Pernambuco-PE,PE
+146,C. fructicola,A.occidentale,Stem,Pernambuco-PE,PE
+136,C. fragareae,A.occidentale,Leaf,Pernambuco-PE,PE
+148,C. fragareae,A.occidentale,Stem,Pernambuco-PE,PE
+235,C. tropicale,A.occidentale,Leaf,Pernambuco-PE,PE
+151,C. tropicale,A.occidentale,Leaf,Pernambuco-PE,PE
+174,C. tropicale,A.occidentale,Leaf,Pernambuco-PE,PE
+175,C. tropicale,A.occidentale,Leaf,Pernambuco-PE,PE
+176,C. tropicale,A.occidentale,Leaf,Pernambuco-PE,PE
+180,C. tropicale,A.occidentale,Leaf,Pernambuco-PE,PE
+191,C. tropicale,A.occidentale,Stem,Pernambuco-PE,PE
+192,C. tropicale,A.occidentale,Stem,Pernambuco-PE,PE
+193,C. tropicale,A.occidentale,Stem,Pernambuco-PE,PE
+194,C. tropicale,A.occidentale,Stem,Pernambuco-PE,PE
+249,C. tropicale,A.occidentale,Leaf,Pernambuco-PE,PE
+252,C. tropicale,A.occidentale,Leaf,Pernambuco-PE,PE
+226,C. queenslandicum,A.occidentale,Leaf,Pernambuco-PE,PE
+250,C. queenslandicum,A.occidentale,Leaf,Pernambuco-PE,PE
+251,C. queenslandicum,A.occidentale,Leaf,Pernambuco-PE,PE
+253,C. queenslandicum,A.occidentale,Leaf,Pernambuco-PE,PE
+265,C. queenslandicum,A.occidentale,Inflorescence,Pernambuco-PE,PE
+266,C. queenslandicum,A.occidentale,Inflorescence,Pernambuco-PE,PE
+267,C. queenslandicum,A.occidentale,Inflorescence,Pernambuco-PE,PE
+268,C. queenslandicum,A.occidentale,Inflorescence,Pernambuco-PE,PE
+270,C. queenslandicum,A.occidentale,Inflorescence,Pernambuco-PE,PE
+179,Colletotrichum sp2,A.occidentale,Leaf,Pernambuco-PE,PE
+181,Colletotrichum sp2,A.occidentale,Leaf,Pernambuco-PE,PE
+135,Colletotrichum sp3,A.occidentale,Leaf,Pernambuco-PE,PE
+147,Colletotrichum sp3,A.occidentale,Leaf,Pernambuco-PE,PE
+188,Colletotrichum sp3,A.occidentale,Leaf,Pernambuco-PE,PE
+189,Colletotrichum sp3,A.occidentale,Leaf,Pernambuco-PE,PE
+248,Colletotrichum sp3,A.occidentale,Leaf,Pernambuco-PE,PE
+281,C. dianesei,A.occidentale,Leaf,Rio Grande do Norte-RN,RN
+282,C. dianesei,A.occidentale,Leaf,Rio Grande do Norte-RN,RN
+283,C. dianesei,A.occidentale,Leaf,Rio Grande do Norte-RN,RN
+288,C. dianesei,A.occidentale,Leaf,Rio Grande do Norte-RN,RN
+289,C. dianesei,A.occidentale,Leaf,Rio Grande do Norte-RN,RN
+290,C. dianesei,A.occidentale,Leaf,Rio Grande do Norte-RN,RN
+291,C. dianesei,A.occidentale,Leaf,Rio Grande do Norte-RN,RN
+292,C. dianesei,A.occidentale,Leaf,Rio Grande do Norte-RN,RN
+294,C. dianesei,A.occidentale,Stem,Rio Grande do Norte-RN,RN
+295,C. dianesei,A.occidentale,Stem,Rio Grande do Norte-RN,RN
+296,C. dianesei,A.occidentale,Stem,Rio Grande do Norte-RN,RN
+297,C. dianesei,A.occidentale,Stem,Rio Grande do Norte-RN,RN
+299,C. dianesei,A.occidentale,Stem,Rio Grande do Norte-RN,RN
+303,C. dianesei,A.occidentale,Stem,Rio Grande do Norte-RN,RN
+306,C. dianesei,A.occidentale,Stem,Rio Grande do Norte-RN,RN
+307,C. dianesei,A.occidentale,Stem,Rio Grande do Norte-RN,RN
+308,C. dianesei,A.occidentale,Stem,Rio Grande do Norte-RN,RN
+309,C. dianesei,A.occidentale,Stem,Rio Grande do Norte-RN,RN
+315,C. dianesei,A.occidentale,Inflorescence,Rio Grande do Norte-RN,RN
+318,C. dianesei,A.occidentale,Inflorescence,Rio Grande do Norte-RN,RN
+319,C. dianesei,A.occidentale,Inflorescence,Rio Grande do Norte-RN,RN
+284,C. fragareae,A.occidentale,Leaf,Rio Grande do Norte-RN,RN
+310,C. chrisophilum,A.occidentale,Stem,Rio Grande do Norte-RN,RN
+285,C.communis,A.occidentale,Leaf,Rio Grande do Norte-RN,RN
+287,C.communis,A.occidentale,Leaf,Rio Grande do Norte-RN,RN
+293,C.communis,A.occidentale,Stem,Rio Grande do Norte-RN,RN
+302,C.communis,A.occidentale,Stem,Rio Grande do Norte-RN,RN
+304,C.communis,A.occidentale,Inflorescence,Rio Grande do Norte-RN,RN
+305,C.communis,A.occidentale,Inflorescence,Rio Grande do Norte-RN,RN
+311,C.communis,A.occidentale,Stem,Rio Grande do Norte-RN,RN
+313,C.communis,A.occidentale,Inflorescence,Rio Grande do Norte-RN,RN
+316,C.communis,A.occidentale,Inflorescence,Rio Grande do Norte-RN,RN
+317,C.communis,A.occidentale,Inflorescence,Rio Grande do Norte-RN,RN
+314,C. gloeosporioides ,A.occidentale,Inflorescence,Rio Grande do Norte-RN,RN
+320,C. gloeosporioides ,A.occidentale,Inflorescence,Rio Grande do Norte-RN,RN
+300,Colletotrichum sp5,A.occidentale,Stem,Rio Grande do Norte-RN,RN
+322,Colletotrichum sp5,A.humile,Leaf,Goiás-GO,GO
+323,Colletotrichum sp5,A.humile,Leaf,Goiás-GO,GO
+321,Colletotrichum sp8,A.occidentale,Leaf,Santa Catarina,SC
